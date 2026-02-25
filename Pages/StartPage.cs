@@ -33,7 +33,10 @@ public class StartPage : IPage
             return new EnterToItPage().View(update, userState);
         }
 
-        return null;
+        return new PageResult("Я вас не понимаю. Воспользуйтесь кнопками меню.", GetKeyboard())
+        {
+            UpdateUserState = userState
+        };
     }
 
     private ReplyKeyboardMarkup GetKeyboard()

@@ -12,7 +12,7 @@ public class PageResult
 
     public PageResult(string text, ReplyMarkup replyMarkup)
     {
-        Text = string.Empty;
+        Text = text;
         ReplyMarkup = replyMarkup;
     }
 }

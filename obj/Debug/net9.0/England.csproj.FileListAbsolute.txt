@@ -29,3 +29,4 @@
 /home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-01-28 12-20-12.png
 /home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-01-28 12-20-14.png
 /home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-02-02 14-34-34.png
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.sourcelink.json

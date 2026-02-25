@@ -48,9 +48,10 @@ class Program
         await client.SendMessage(
             chatId: telegramUserId,
             text: result.Text,
-            replyMarkup: result.ReplyMarkup, cancellationToken: token);
+            replyMarkup: result.ReplyMarkup,
+            cancellationToken: token);
 
-        storage.AddOrUpdate(telegramUserId, userState);
+        storage.AddOrUpdate(telegramUserId, result.UpdateUserState);
     }
 
     private static Task ErrorHandler(ITelegramBotClient client, Exception exception, CancellationToken token)
