@@ -1,0 +1,31 @@
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/England
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/England.deps.json
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/England.runtimeconfig.json
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/England.dll
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/England.pdb
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Telegram.Bot.dll
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.csproj.AssemblyReference.cache
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.GeneratedMSBuildEditorConfig.editorconfig
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.AssemblyInfoInputs.cache
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.AssemblyInfo.cs
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.csproj.CoreCompileInputs.cache
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.csproj.Up2Date
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.dll
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/refint/England.dll
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.pdb
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/England.genruntimeconfig.cache
+/home/zulfiqor/RiderProjects/England/obj/Debug/net9.0/ref/England.dll
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-01-28 10-30-15.png
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-01-14 17-27-32.png
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/2026-01-15_14-51.png
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-01-28 10-30-32.png
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-01-28 10-30-44.png
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-01-28 12-20-12.png
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-01-28 12-20-14.png
+/home/zulfiqor/RiderProjects/England/bin/Debug/net9.0/Images/Screenshot from 2026-02-02 14-34-34.png

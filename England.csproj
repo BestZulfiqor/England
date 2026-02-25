@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Telegram.Bot" Version="22.9.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Images\Screenshot from 2026-01-28 10-30-15.png" />
+      <Content Include="Images\Screenshot from 2026-01-28 10-30-15.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="Images\Screenshot from 2026-01-14 17-27-32.png" />
+      <Content Include="Images\Screenshot from 2026-01-14 17-27-32.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="Images\2026-01-15_14-51.png" />
+      <Content Include="Images\2026-01-15_14-51.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="Images\Screenshot from 2026-01-28 10-30-32.png" />
+      <Content Include="Images\Screenshot from 2026-01-28 10-30-32.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="Images\Screenshot from 2026-01-28 10-30-44.png" />
+      <Content Include="Images\Screenshot from 2026-01-28 10-30-44.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="Images\Screenshot from 2026-01-28 12-20-12.png" />
+      <Content Include="Images\Screenshot from 2026-01-28 12-20-12.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="Images\Screenshot from 2026-01-28 12-20-14.png" />
+      <Content Include="Images\Screenshot from 2026-01-28 12-20-14.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+      <None Remove="Images\Screenshot from 2026-02-02 14-34-34.png" />
+      <Content Include="Images\Screenshot from 2026-02-02 14-34-34.png">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+</Project>
